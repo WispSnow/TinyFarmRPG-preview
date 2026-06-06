@@ -67,9 +67,11 @@
       "paths": [
         "assets/data/appearance_catalog.json",
         "assets/data/cursor_config.json",
+        "assets/data/game_time_config.json",
         "assets/data/resource_mapping.json",
         "assets/farm-rpg/UI/Clock/Clock.png",
         "assets/farm-rpg/UI/Clock/clock hand.png",
+        "assets/farm-rpg/UI/HUD.png",
         "assets/farm-rpg/UI/button.png",
         "assets/fonts/VonwaonBitmap-16px.ttf",
         "assets/i18n/en-US.json",
@@ -104,8 +106,8 @@
         "ui/rmlui/theme/nav.rcss",
         "ui/rmlui/theme/reset.rcss"
       ],
-      "files": 38,
-      "bytes": 3049380,
+      "files": 40,
+      "bytes": 3060493,
       "size": "2.9 MiB"
     },
     "home-map": {
@@ -174,7 +176,6 @@
         "assets/data/audio_cues.json",
         "assets/data/crop_config.json",
         "assets/data/dialogue_script.json",
-        "assets/data/game_time_config.json",
         "assets/data/icon_config.json",
         "assets/data/item_config.json",
         "assets/data/light_config.json",
@@ -210,13 +211,13 @@
         "scripts/quests/first_delivery.lua",
         "scripts/quests/village_goblin_cleanup.lua"
       ],
-      "files": 40,
-      "bytes": 98166,
-      "size": "95.9 KiB",
-      "artifact_bytes": 105704,
-      "artifact_size": "103.2 KiB",
-      "artifact_gzip_bytes": 21767,
-      "artifact_gzip_size": "21.3 KiB"
+      "files": 39,
+      "bytes": 97691,
+      "size": "95.4 KiB",
+      "artifact_bytes": 105036,
+      "artifact_size": "102.6 KiB",
+      "artifact_gzip_bytes": 21597,
+      "artifact_gzip_size": "21.1 KiB"
     },
     "school-map": {
       "delivery": "tfpack",
@@ -770,7 +771,6 @@
         "assets/farm-rpg/Icons/Weapons/RPG/5.png",
         "assets/farm-rpg/UI/Bars.png",
         "assets/farm-rpg/UI/Clock/Extras.png",
-        "assets/farm-rpg/UI/HUD.png",
         "assets/farm-rpg/UI/Inventory/Banner.png",
         "assets/farm-rpg/UI/Inventory/Slot Armor.png",
         "assets/farm-rpg/UI/Inventory/Slots.png",
@@ -823,12 +823,12 @@
         "ui/rmlui/theme/slot_widgets.rcss",
         "ui/rmlui/theme/spritesheet.rcss"
       ],
-      "files": 578,
-      "bytes": 14459544,
+      "files": 577,
+      "bytes": 14449152,
       "size": "13.8 MiB",
-      "artifact_bytes": 14629505,
-      "artifact_size": "14.0 MiB",
-      "artifact_gzip_bytes": 8769603,
+      "artifact_bytes": 14618931,
+      "artifact_size": "13.9 MiB",
+      "artifact_gzip_bytes": 8758997,
       "artifact_gzip_size": "8.4 MiB"
     },
     "town-map": {
